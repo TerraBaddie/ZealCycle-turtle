@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: ZealCycle-turtle
+## Notes: Zeal CS/HS cycle helper (CS x3 opener, HS maintain, CS refresh timing + desync resync)
+## Author: TerraBaddie
+## Version: 1.0
+## SavedVariables: ZEAL_DEBUG
+
+ZealCycle-turtle.lua
